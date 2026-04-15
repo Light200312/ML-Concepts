@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+sqlalchemy
+requests
+beautifulsoup4
+lxml
+cloudscraper
+ipykernel
+openpyxl
+notebook
